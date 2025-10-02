@@ -1,5 +1,7 @@
+import './ejemplos/colecciones'
+import './ejemplos/valoresLiterales'
+//import './ejemplos/variables'
 import './style.css'
-import './ejemplos/variables'
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
