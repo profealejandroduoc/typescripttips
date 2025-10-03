@@ -1,7 +1,10 @@
-import './ejemplos/desestructuracion'
+//import './ejemplos/arreglosDesestructurados'
+//import './ejemplos/desestructuracion'
 //import './ejemplos/colecciones'
 //import './ejemplos/valoresLiterales'
 //import './ejemplos/variables'
+import './ejemplos/busqueda'
+import './data/juegos.datos'
 import './style.css'
 
 
