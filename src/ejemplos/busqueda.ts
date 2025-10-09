@@ -10,6 +10,6 @@ const juegoxTitulo=(tituloBuscado:string):Juego | undefined =>{
 }
 
 
-console.log(juegoxTitulo('sdsad'));
+console.log(juegoxTitulo('Battlefield'));
 
 
